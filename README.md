@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a smart invoice processing agent<br>- 🌱 I’m currently learning how to integrat and work with LLMs in my code<br>- 👯 I’m looking to collaborate on various AI ,ML and CV projects<br>- 🤔 I’m looking for help with what to do ahead<br>- 💬 Ask me about How to create your very own CNN
+- 🔭 I’m currently working on a smart invoice processing agent<br>- 🌱 I’m currently learning how to integrate and work with LLMs in my code<br>- 👯 I’m looking to collaborate on various AI ,ML and CV projects<br>- 🤔 I’m looking for help with what to do ahead<br>- 💬 Ask me about How to create your very own CNN
 
 
 ## 🌐 Socials:
